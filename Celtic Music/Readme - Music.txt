@@ -1,0 +1,1 @@
+Please put the music and text files in the "My Documents/Paradox Interactive/Crusader Kings II/mod/Umbra Spherae/music" folder

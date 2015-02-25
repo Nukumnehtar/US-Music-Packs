@@ -1,0 +1,241 @@
+# Celtic Songs - less likely to fire for non-Celtic characters
+
+song = {
+	name = "banish.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion = celide
+					is_heresy_of = celide
+					culture_group = celtic
+					any_courtier = {
+						OR = {
+							religion = celide
+							is_heresy_of = celide
+							culture_group = celtic
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "mighty_rose.ogg"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion = celide
+					is_heresy_of = celide
+					culture_group = celtic
+					any_courtier = {
+						OR = {
+							religion = celide
+							is_heresy_of = celide
+							culture_group = celtic
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "roses_in_winter.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion = celide
+					is_heresy_of = celide
+					culture_group = celtic
+					any_courtier = {
+						OR = {
+							religion = celide
+							is_heresy_of = celide
+							culture_group = celtic
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "rosy_cheeks.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion = celide
+					is_heresy_of = celide
+					culture_group = celtic
+					any_courtier = {
+						OR = {
+							religion = celide
+							is_heresy_of = celide
+							culture_group = celtic
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "scottish_song.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion = celide
+					is_heresy_of = celide
+					culture_group = celtic
+					any_courtier = {
+						OR = {
+							religion = celide
+							is_heresy_of = celide
+							culture_group = celtic
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "the_highlanders.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion = celide
+					is_heresy_of = celide
+					culture_group = celtic
+					any_courtier = {
+						OR = {
+							religion = celide
+							is_heresy_of = celide
+							culture_group = celtic
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "slur_jig.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion = celide
+					is_heresy_of = celide
+					culture_group = celtic
+					any_courtier = {
+						OR = {
+							religion = celide
+							is_heresy_of = celide
+							culture_group = celtic
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "fanny_power.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion = celide
+					is_heresy_of = celide
+					culture_group = celtic
+					any_courtier = {
+						OR = {
+							religion = celide
+							is_heresy_of = celide
+							culture_group = celtic
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "rosemary_dancing.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion = celide
+					is_heresy_of = celide
+					culture_group = celtic
+					any_courtier = {
+						OR = {
+							religion = celide
+							is_heresy_of = celide
+							culture_group = celtic
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "the_lovely_rose.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion = celide
+					is_heresy_of = celide
+					culture_group = celtic
+					any_courtier = {
+						OR = {
+							religion = celide
+							is_heresy_of = celide
+							culture_group = celtic
+						}
+					}
+				}
+			}
+		}
+	}		
+}
