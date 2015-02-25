@@ -1,0 +1,327 @@
+# Turkish music - more likely to play for characters of Turkish, Azeri, Kurdish, Armenian, and Georgian cultures.
+
+song = {
+	name = "cappadocian_village.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture = turkish
+					culture = pecheng
+					culture = cuman
+					culture = khazar
+					culture = bolghar
+					culture = avar
+					culture = uyghur
+					culture = kyrgyz
+					culture_group = east_iranian
+					any_courtier = {
+						OR = {
+							culture = turkish
+							culture = pecheng
+							culture = cuman
+							culture = khazar
+							culture = bolghar
+							culture = avar
+							culture = uyghur
+							culture = kyrgyz
+							culture_group = east_iranian
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "festival_memories.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture = turkish
+					culture = pecheng
+					culture = cuman
+					culture = khazar
+					culture = bolghar
+					culture = avar
+					culture = uyghur
+					culture = kyrgyz
+					culture_group = east_iranian
+					any_courtier = {
+						OR = {
+							culture = turkish
+							culture = pecheng
+							culture = cuman
+							culture = khazar
+							culture = bolghar
+							culture = avar
+							culture = uyghur
+							culture = kyrgyz
+							culture_group = east_iranian
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "great_istanbul.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture = turkish
+					culture = pecheng
+					culture = cuman
+					culture = khazar
+					culture = bolghar
+					culture = avar
+					culture = uyghur
+					culture = kyrgyz
+					culture_group = east_iranian
+					any_courtier = {
+						OR = {
+							culture = turkish
+							culture = pecheng
+							culture = cuman
+							culture = khazar
+							culture = bolghar
+							culture = avar
+							culture = uyghur
+							culture = kyrgyz
+							culture_group = east_iranian
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "little_coffeehouse.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture = turkish
+					culture = pecheng
+					culture = cuman
+					culture = khazar
+					culture = bolghar
+					culture = avar
+					culture = uyghur
+					culture = kyrgyz
+					culture_group = east_iranian
+					any_courtier = {
+						OR = {
+							culture = turkish
+							culture = pecheng
+							culture = cuman
+							culture = khazar
+							culture = bolghar
+							culture = avar
+							culture = uyghur
+							culture = kyrgyz
+							culture_group = east_iranian
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "lone_herder.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture = turkish
+					culture = pecheng
+					culture = cuman
+					culture = khazar
+					culture = bolghar
+					culture = avar
+					culture = uyghur
+					culture = kyrgyz
+					culture_group = east_iranian
+					any_courtier = {
+						OR = {
+							culture = turkish
+							culture = pecheng
+							culture = cuman
+							culture = khazar
+							culture = bolghar
+							culture = avar
+							culture = uyghur
+							culture = kyrgyz
+							culture_group = east_iranian
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "old_turks.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture = turkish
+					culture = pecheng
+					culture = cuman
+					culture = khazar
+					culture = bolghar
+					culture = avar
+					culture = uyghur
+					culture = kyrgyz
+					culture_group = east_iranian
+					any_courtier = {
+						OR = {
+							culture = turkish
+							culture = pecheng
+							culture = cuman
+							culture = khazar
+							culture = bolghar
+							culture = avar
+							culture = uyghur
+							culture = kyrgyz
+							culture_group = east_iranian
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "ottoman_splendor.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture = turkish
+					culture = pecheng
+					culture = cuman
+					culture = khazar
+					culture = bolghar
+					culture = avar
+					culture = uyghur
+					culture = kyrgyz
+					culture_group = east_iranian
+					any_courtier = {
+						OR = {
+							culture = turkish
+							culture = pecheng
+							culture = cuman
+							culture = khazar
+							culture = bolghar
+							culture = avar
+							culture = uyghur
+							culture = kyrgyz
+							culture_group = east_iranian
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "silent_ionian_shores.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture = turkish
+					culture = pecheng
+					culture = cuman
+					culture = khazar
+					culture = bolghar
+					culture = avar
+					culture = uyghur
+					culture = kyrgyz
+					culture_group = east_iranian
+					any_courtier = {
+						OR = {
+							culture = turkish
+							culture = pecheng
+							culture = cuman
+							culture = khazar
+							culture = bolghar
+							culture = avar
+							culture = uyghur
+							culture = kyrgyz
+							culture_group = east_iranian
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "turkish_revelry.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture = turkish
+					culture = pecheng
+					culture = cuman
+					culture = khazar
+					culture = bolghar
+					culture = avar
+					culture = uyghur
+					culture = kyrgyz
+					culture_group = east_iranian
+					any_courtier = {
+						OR = {
+							culture = turkish
+							culture = pecheng
+							culture = cuman
+							culture = khazar
+							culture = bolghar
+							culture = avar
+							culture = uyghur
+							culture = kyrgyz
+							culture_group = east_iranian
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+

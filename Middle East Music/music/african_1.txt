@@ -1,0 +1,108 @@
+# African songs - less likely to fire for non-Africans
+
+song = {
+	name = "griots_hovel.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = berberic
+					culture_group = east_african
+					culture_group = west_african
+					culture = maghreb_arabic
+					any_courtier = {
+						OR = {
+							culture_group = berberic
+							culture_group = east_african
+							culture_group = west_african
+							culture = maghreb_arabic
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "hausa_travel.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = berberic
+					culture_group = east_african
+					culture_group = west_african
+					culture = maghreb_arabic
+					any_courtier = {
+						OR = {
+							culture_group = berberic
+							culture_group = east_african
+							culture_group = west_african
+							culture = maghreb_arabic
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "malian_jig.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = berberic
+					culture_group = east_african
+					culture_group = west_african
+					culture = maghreb_arabic
+					any_courtier = {
+						OR = {
+							culture_group = berberic
+							culture_group = east_african
+							culture_group = west_african
+							culture = maghreb_arabic
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "savanna_breeze.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = berberic
+					culture_group = east_african
+					culture_group = west_african
+					culture = maghreb_arabic
+					any_courtier = {
+						OR = {
+							culture_group = berberic
+							culture_group = east_african
+							culture_group = west_african
+							culture = maghreb_arabic
+						}
+					}
+				}
+			}
+		}
+	}		
+}	
+}
+

@@ -1,0 +1,230 @@
+# Middle Eastern songs - less likely to fire for Christians and Pagans
+
+song = {
+	name = "Oud.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion_group = muslim
+					culture_group = arabic
+					culture_group = berberic
+					culture_group = iranian
+					culture_group = east_african
+					culture_group = byzantine
+					culture_group = east_iranian
+					any_courtier = {
+						OR = {
+							religion_group = muslim
+							culture_group = arabic
+							culture_group = berberic
+							culture_group = iranian
+							culture_group = east_african
+							culture_group = byzantine
+							culture_group = east_iranian
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "oud_2.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion_group = muslim
+					culture_group = arabic
+					culture_group = berberic
+					culture_group = iranian
+					culture_group = east_african
+					culture_group = byzantine
+					culture_group = east_iranian
+					any_courtier = {
+						OR = {
+							religion_group = muslim
+							culture_group = arabic
+							culture_group = berberic
+							culture_group = iranian
+							culture_group = east_african
+							culture_group = byzantine
+							culture_group = east_iranian
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "adhaan.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = { #Muslim call to prayers - wouldn't' make sense for non-Muslims, now would it?
+			factor = 0
+			NOT = {
+				religion_group = muslim
+			}
+		}
+	}		
+}
+song = {
+	name = "persian_song.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion_group = zoroastrian_group
+					culture_group = iranian
+					culture_group = east_iranian
+					any_courtier = {
+						OR = {
+							religion_group = zoroastrian_group
+							culture_group = iranian
+							culture_group = east_iranian
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "amazigh.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion_group = muslim
+					culture_group = arabic
+					culture_group = berberic
+					culture_group = east_african
+					any_courtier = {
+						OR = {
+							religion_group = muslim
+							culture_group = arabic
+							culture_group = berberic
+							culture_group = east_african
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "atlas_mountains.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion_group = muslim
+					culture_group = arabic
+					culture_group = berberic
+					culture_group = east_african
+					any_courtier = {
+						OR = {
+							religion_group = muslim
+							culture_group = arabic
+							culture_group = berberic
+							culture_group = east_african
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "berber_melody.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion_group = muslim
+					culture_group = arabic
+					culture_group = berberic
+					culture_group = east_african
+					any_courtier = {
+						OR = {
+							religion_group = muslim
+							culture_group = arabic
+							culture_group = berberic
+							culture_group = east_african
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "persian_cafe.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion_group = zoroastrian_group
+					culture_group = iranian
+					culture_group = east_iranian
+					any_courtier = {
+						OR = {
+							religion_group = zoroastrian_group
+							culture_group = iranian
+							culture_group = east_iranian
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "persian_ramble.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion_group = zoroastrian_group
+					culture_group = iranian
+					culture_group = east_iranian
+					any_courtier = {
+						OR = {
+							religion_group = zoroastrian_group
+							culture_group = iranian
+							culture_group = east_iranian
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+
