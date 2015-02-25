@@ -1,0 +1,347 @@
+#Burmese Music
+
+song = {
+	name = "shun_shun_mya.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = burman
+					any_courtier = {
+						OR = {
+							culture_group = burman
+						}
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			NOT = {
+				OR = {
+					culture_group = vietic
+					culture_group = tai_kadai
+					culture_group = mon_khmer
+					culture = bai
+					any_courtier = {
+						OR = {
+							culture_group = vietic
+							culture_group = tai_kadai
+							culture_group = mon_khmer
+							culture = bai
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+
+song = {
+	name = "tei_tat.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = burman
+					any_courtier = {
+						OR = {
+							culture_group = burman
+						}
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			NOT = {
+				OR = {
+					culture_group = vietic
+					culture_group = tai_kadai
+					culture_group = mon_khmer
+					culture = bai
+					any_courtier = {
+						OR = {
+							culture_group = vietic
+							culture_group = tai_kadai
+							culture_group = mon_khmer
+							culture = bai
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+
+song = {
+	name = "swe_phitsong"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = burman
+					any_courtier = {
+						OR = {
+							culture_group = burman
+						}
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			NOT = {
+				OR = {
+					culture_group = vietic
+					culture_group = tai_kadai
+					culture_group = mon_khmer
+					culture = bai
+					any_courtier = {
+						OR = {
+							culture_group = vietic
+							culture_group = tai_kadai
+							culture_group = mon_khmer
+							culture = bai
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+
+#Khmer Music
+
+song = {
+	name = "phoumea_tak_lolok.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = mon_khmer
+					culture_group = tai_kadai
+					any_courtier = {
+						OR = {
+							culture_group = mon_khmer
+							culture_group = tai_kadai
+						}
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			NOT = {
+				OR = {
+					culture_group = vietic
+					culture_group = burman
+					culture_group = chamic
+					culture = bai
+					any_courtier = {
+						OR = {
+							culture_group = vietic
+							culture_group = burman
+							culture_group = chamic
+							culture = bai
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+
+song = {
+	name = "khmer_krang_phka.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = mon_khmer
+					culture_group = tai_kadai
+					any_courtier = {
+						OR = {
+							culture_group = mon_khmer
+							culture_group = tai_kadai
+						}
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			NOT = {
+				OR = {
+					culture_group = vietic
+					culture_group = burman
+					culture_group = chamic
+					culture = bai
+					any_courtier = {
+						OR = {
+							culture_group = vietic
+							culture_group = burman
+							culture_group = chamic
+							culture = bai
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+
+#Vietnamese Music
+
+song = {
+	name = "bac.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = vietic
+					any_courtier = {
+						OR = {
+							culture_group = vietic
+						}
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			NOT = {
+				OR = {
+					culture_group = burman
+					culture_group = tai_kadai
+					culture_group = chinese
+					culture_group = far_east
+					culture_group = korean_group
+					culture_group = ma_i_an
+					culture_group = taiwanese
+					any_courtier = {
+						OR = {
+							culture_group = burman
+							culture_group = tai_kadai
+							culture_group = chinese
+							culture_group = far_east
+							culture_group = korean_group
+							culture_group = ma_i_an
+							culture_group = taiwanese
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+
+song = {
+	name = "xuan.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = vietic
+					any_courtier = {
+						OR = {
+							culture_group = vietic
+						}
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			NOT = {
+				OR = {
+					culture_group = burman
+					culture_group = tai_kadai
+					culture_group = chinese
+					culture_group = far_east
+					culture_group = korean_group
+					culture_group = ma_i_an
+					culture_group = taiwanese
+					any_courtier = {
+						OR = {
+							culture_group = burman
+							culture_group = tai_kadai
+							culture_group = chinese
+							culture_group = far_east
+							culture_group = korean_group
+							culture_group = ma_i_an
+							culture_group = taiwanese
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+
+song = {
+	name = "thien.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = vietic
+					any_courtier = {
+						OR = {
+							culture_group = vietic
+						}
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			NOT = {
+				OR = {
+					culture_group = burman
+					culture_group = tai_kadai
+					culture_group = chinese
+					culture_group = far_east
+					culture_group = korean_group
+					culture_group = ma_i_an
+					culture_group = taiwanese
+					any_courtier = {
+						OR = {
+							culture_group = burman
+							culture_group = tai_kadai
+							culture_group = chinese
+							culture_group = far_east
+							culture_group = korean_group
+							culture_group = ma_i_an
+							culture_group = taiwanese
+						}
+					}
+				}
+			}
+		}
+	}		
+}

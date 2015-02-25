@@ -1,0 +1,41 @@
+#Central Asian Music
+
+song = {
+	name = "oske_sygyt.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture = mongol
+					culture = khitan
+					culture = xianbei
+					any_courtier = {
+						OR = {
+							culture = mongol
+							culture = khitan
+							culture = xianbei
+						}
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			NOT = {
+				OR = {
+					culture_group = tibetan
+					culture_group = di
+					any_courtier = {
+						OR = {
+							culture_group = tibetan
+							culture_group = di
+						}
+					}
+				}
+			}
+		}
+	}		
+}

@@ -1,0 +1,98 @@
+# Persian songs - more likely to fire for Muslims and Zoroastrians, and those in the Iranian culture group, Chagatai and Turkish cultures
+
+song = {
+	name = "bistoon.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion_group = zoroastrian_group
+					culture_group = iranian
+					culture_group = east_iranian
+					any_courtier = {
+						OR = {
+							religion_group = zoroastrian_group
+							culture_group = iranian
+							culture_group = east_iranian
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "iranian_plateau.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion_group = zoroastrian_group
+					culture_group = iranian
+					culture_group = east_iranian
+					any_courtier = {
+						OR = {
+							religion_group = zoroastrian_group
+							culture_group = iranian
+							culture_group = east_iranian
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "rababa.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion_group = zoroastrian_group
+					culture_group = iranian
+					culture_group = east_iranian
+					any_courtier = {
+						OR = {
+							religion_group = zoroastrian_group
+							culture_group = iranian
+							culture_group = east_iranian
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "well_in_sistan.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion_group = zoroastrian_group
+					culture_group = iranian
+					culture_group = east_iranian
+					any_courtier = {
+						OR = {
+							religion_group = zoroastrian_group
+							culture_group = iranian
+							culture_group = east_iranian
+						}
+					}
+				}
+			}
+		}
+	}		
+}

@@ -1,0 +1,343 @@
+#Chinese Music
+
+song = {
+	name = "teals_descending_upon_the_level_sand.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = chinese
+					culture_group = far_east
+					culture_group = korean_group
+					culture_group = vietic
+					religion_group = chinese_religion
+					any_courtier = {
+						OR = {
+							culture_group = chinese
+							culture_group = far_east
+							culture_group = korean_group
+							culture_group = vietic
+							religion_group = chinese_religion
+						}
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			NOT = {
+				OR = {
+					culture_group = ma_i_an
+					culture_group = taiwanese
+					culture_group = tibetan
+					culture_group = di
+					culture = mongol
+					culture = khitan
+					culture = jurchen
+					culture = xianbei
+					any_courtier = {
+						OR = {
+							culture_group = ma_i_an
+							culture_group = taiwanese
+							culture_group = tibetan
+							culture_group = di
+							culture = mongol
+							culture = khitan
+							culture = jurchen
+							culture = xianbei
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+
+song = {
+	name = "chinese_joy.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = chinese
+					culture_group = far_east
+					culture_group = korean_group
+					culture_group = vietic
+					religion_group = chinese_religion
+					any_courtier = {
+						OR = {
+							culture_group = chinese
+							culture_group = far_east
+							culture_group = korean_group
+							culture_group = vietic
+							religion_group = chinese_religion
+						}
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			NOT = {
+				OR = {
+					culture_group = ma_i_an
+					culture_group = taiwanese
+					culture_group = tibetan
+					culture_group = di
+					culture = mongol
+					culture = khitan
+					culture = jurchen
+					culture = xianbei
+					any_courtier = {
+						OR = {
+							culture_group = ma_i_an
+							culture_group = taiwanese
+							culture_group = tibetan
+							culture_group = di
+							culture = mongol
+							culture = khitan
+							culture = jurchen
+							culture = xianbei
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+
+song = {
+	name = "mountain_dance.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = chinese
+					culture_group = far_east
+					culture_group = korean_group
+					culture_group = vietic
+					religion_group = chinese_religion
+					any_courtier = {
+						OR = {
+							culture_group = chinese
+							culture_group = far_east
+							culture_group = korean_group
+							culture_group = vietic
+							religion_group = chinese_religion
+						}
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			NOT = {
+				OR = {
+					culture_group = ma_i_an
+					culture_group = taiwanese
+					culture_group = tibetan
+					culture_group = di
+					culture = mongol
+					culture = khitan
+					culture = jurchen
+					culture = xianbei
+					any_courtier = {
+						OR = {
+							culture_group = ma_i_an
+							culture_group = taiwanese
+							culture_group = tibetan
+							culture_group = di
+							culture = mongol
+							culture = khitan
+							culture = jurchen
+							culture = xianbei
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+
+song = {
+	name = "idle.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = chinese
+					culture_group = far_east
+					culture_group = korean_group
+					culture_group = vietic
+					religion_group = chinese_religion
+					any_courtier = {
+						OR = {
+							culture_group = chinese
+							culture_group = far_east
+							culture_group = korean_group
+							culture_group = vietic
+							religion_group = chinese_religion
+						}
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			NOT = {
+				OR = {
+					culture_group = ma_i_an
+					culture_group = taiwanese
+					culture_group = tibetan
+					culture_group = di
+					culture = mongol
+					culture = khitan
+					culture = jurchen
+					culture = xianbei
+					any_courtier = {
+						OR = {
+							culture_group = ma_i_an
+							culture_group = taiwanese
+							culture_group = tibetan
+							culture_group = di
+							culture = mongol
+							culture = khitan
+							culture = jurchen
+							culture = xianbei
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+
+#Japanese Music
+
+song = {
+	name = "omoigawa.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = far_east
+					any_courtier = {
+						OR = {
+							culture_group = far_east
+						}
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			NOT = {
+				OR = {
+					culture_group = chinese
+					culture_group = korean_group
+					culture = jurchen
+					any_courtier = {
+						OR = {
+							culture_group = chinese
+							culture_group = korean_group
+							culture = jurchen
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+
+#Korean Music
+
+song = {
+	name = "komungo_sanjo.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = korean_group
+					culture = jurchen
+					any_courtier = {
+						OR = {
+							culture_group = korean_group
+							culture = jurchen
+						}
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			NOT = {
+				OR = {
+					culture_group = chinese
+					culture_group = far_east
+					any_courtier = {
+						OR = {
+							culture_group = chinese
+							culture_group = far_east
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+
+song = {
+	name = "taegum_sanjo.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = korean_group
+					culture = jurchen
+					any_courtier = {
+						OR = {
+							culture_group = korean_group
+							culture = jurchen
+						}
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			NOT = {
+				OR = {
+					culture_group = chinese
+					culture_group = far_east
+					any_courtier = {
+						OR = {
+							culture_group = chinese
+							culture_group = far_east
+						}
+					}
+				}
+			}
+		}
+	}		
+}

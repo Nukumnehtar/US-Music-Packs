@@ -1,0 +1,163 @@
+# Indian songs - will fire only if character has Indian/Hindu courtiers, or is Hindu him/herself
+
+song = {
+	name = "serenity.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion = hindu
+					religion = jain
+					is_heresy_of = hindu
+					is_heresy_of = jain
+					culture_group = shauraseni
+					culture_group = abahatta
+					culture_group = maharashtri
+					culture_group = pahari
+					culture_group = kandamil
+					culture_group = assaka
+					culture_group = elu
+					any_courtier = {
+						OR = {
+							religion = hindu
+							religion = jain
+							is_heresy_of = hindu
+							is_heresy_of = jain
+							culture_group = shauraseni
+							culture_group = abahatta
+							culture_group = maharashtri
+							culture_group = pahari
+							culture_group = kandamil
+							culture_group = assaka
+							culture_group = elu
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "ganges.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion = hindu
+					religion = jain
+					is_heresy_of = hindu
+					is_heresy_of = jain
+					culture_group = shauraseni
+					culture_group = abahatta
+					culture_group = maharashtri
+					culture_group = pahari
+					culture_group = kandamil
+					culture_group = assaka
+					culture_group = elu
+					any_courtier = {
+						OR = {
+							religion = hindu
+							religion = jain
+							is_heresy_of = hindu
+							is_heresy_of = jain
+							culture_group = shauraseni
+							culture_group = abahatta
+							culture_group = maharashtri
+							culture_group = pahari
+							culture_group = kandamil
+							culture_group = assaka
+							culture_group = elu
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "hindu_song.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion = hindu
+					religion = jain
+					is_heresy_of = hindu
+					is_heresy_of = jain
+					culture_group = shauraseni
+					culture_group = abahatta
+					culture_group = maharashtri
+					culture_group = pahari
+					culture_group = kandamil
+					culture_group = assaka
+					culture_group = elu
+					any_courtier = {
+						OR = {
+							religion = hindu
+							religion = jain
+							is_heresy_of = hindu
+							is_heresy_of = jain
+							culture_group = shauraseni
+							culture_group = abahatta
+							culture_group = maharashtri
+							culture_group = pahari
+							culture_group = kandamil
+							culture_group = assaka
+							culture_group = elu
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+song = {
+	name = "sunrise_of_flutes.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					religion = hindu
+					religion = jain
+					is_heresy_of = hindu
+					is_heresy_of = jain
+					culture_group = shauraseni
+					culture_group = abahatta
+					culture_group = maharashtri
+					culture_group = pahari
+					culture_group = kandamil
+					culture_group = assaka
+					culture_group = elu
+					any_courtier = {
+						OR = {
+							religion = hindu
+							religion = jain
+							is_heresy_of = hindu
+							is_heresy_of = jain
+							culture_group = shauraseni
+							culture_group = abahatta
+							culture_group = maharashtri
+							culture_group = pahari
+							culture_group = kandamil
+							culture_group = assaka
+							culture_group = elu
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+

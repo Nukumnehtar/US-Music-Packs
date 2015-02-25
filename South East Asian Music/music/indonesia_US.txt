@@ -1,0 +1,205 @@
+#Sundanese Music
+
+song = {
+	name = "arum_bandung.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = javanese_group
+					culture_group = malay_group
+					culture_group = chamic
+					culture_group = papuan_group
+					culture_group = sulawesi_group
+					culture_group = maluku_group
+					culture_group = bornean
+					any_courtier = {
+						OR = {
+							culture_group = javanese_group
+							culture_group = malay_group
+							culture_group = chamic
+							culture_group = papuan_group
+							culture_group = sulawesi_group
+							culture_group = maluku_group
+							culture_group = bornean
+						}
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			NOT = {
+				OR = {
+					culture_group = ma_i_an
+					culture_group = taiwanese
+					culture_group = andaman
+					any_courtier = {
+						OR = {
+							culture_group = ma_i_an
+							culture_group = taiwanese
+							culture_group = andaman
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+
+#Balinese Music
+
+song = {
+	name = "kapi_radja.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = javanese_group
+					culture_group = malay_group
+					culture_group = chamic
+					culture_group = papuan_group
+					culture_group = sulawesi_group
+					culture_group = maluku_group
+					culture_group = bornean
+					any_courtier = {
+						OR = {
+							culture_group = javanese_group
+							culture_group = malay_group
+							culture_group = chamic
+							culture_group = papuan_group
+							culture_group = sulawesi_group
+							culture_group = maluku_group
+							culture_group = bornean
+						}
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			NOT = {
+				OR = {
+					culture_group = ma_i_an
+					culture_group = taiwanese
+					culture_group = andaman
+					any_courtier = {
+						OR = {
+							culture_group = ma_i_an
+							culture_group = taiwanese
+							culture_group = andaman
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+
+song = {
+	name = "sapta_murti.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = javanese_group
+					culture_group = malay_group
+					culture_group = chamic
+					culture_group = papuan_group
+					culture_group = sulawesi_group
+					culture_group = maluku_group
+					culture_group = bornean
+					any_courtier = {
+						OR = {
+							culture_group = javanese_group
+							culture_group = malay_group
+							culture_group = chamic
+							culture_group = papuan_group
+							culture_group = sulawesi_group
+							culture_group = maluku_group
+							culture_group = bornean
+						}
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			NOT = {
+				OR = {
+					culture_group = ma_i_an
+					culture_group = taiwanese
+					culture_group = andaman
+					any_courtier = {
+						OR = {
+							culture_group = ma_i_an
+							culture_group = taiwanese
+							culture_group = andaman
+						}
+					}
+				}
+			}
+		}
+	}		
+}
+
+#Javanese Music
+
+song = {
+	name = "bubaran_udan_mas.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = javanese_group
+					culture_group = malay_group
+					culture_group = chamic
+					culture_group = papuan_group
+					culture_group = sulawesi_group
+					culture_group = maluku_group
+					culture_group = bornean
+					any_courtier = {
+						OR = {
+							culture_group = javanese_group
+							culture_group = malay_group
+							culture_group = chamic
+							culture_group = papuan_group
+							culture_group = sulawesi_group
+							culture_group = maluku_group
+							culture_group = bornean
+						}
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			NOT = {
+				OR = {
+					culture_group = ma_i_an
+					culture_group = taiwanese
+					culture_group = andaman
+					any_courtier = {
+						OR = {
+							culture_group = ma_i_an
+							culture_group = taiwanese
+							culture_group = andaman
+						}
+					}
+				}
+			}
+		}
+	}		
+}
