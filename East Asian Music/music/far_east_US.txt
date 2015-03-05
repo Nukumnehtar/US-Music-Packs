@@ -36,7 +36,7 @@ song = {
 					culture_group = di
 					culture = mongol
 					culture = khitan
-					culture = jurchen
+					culture_group = tungusic
 					culture = xianbei
 					any_courtier = {
 						OR = {
@@ -46,7 +46,7 @@ song = {
 							culture_group = di
 							culture = mongol
 							culture = khitan
-							culture = jurchen
+							culture_group = tungusic
 							culture = xianbei
 						}
 					}
@@ -92,7 +92,7 @@ song = {
 					culture_group = di
 					culture = mongol
 					culture = khitan
-					culture = jurchen
+					culture_group = tungusic
 					culture = xianbei
 					any_courtier = {
 						OR = {
@@ -102,7 +102,7 @@ song = {
 							culture_group = di
 							culture = mongol
 							culture = khitan
-							culture = jurchen
+							culture_group = tungusic
 							culture = xianbei
 						}
 					}
@@ -148,7 +148,7 @@ song = {
 					culture_group = di
 					culture = mongol
 					culture = khitan
-					culture = jurchen
+					culture_group = tungusic
 					culture = xianbei
 					any_courtier = {
 						OR = {
@@ -158,7 +158,7 @@ song = {
 							culture_group = di
 							culture = mongol
 							culture = khitan
-							culture = jurchen
+							culture_group = tungusic
 							culture = xianbei
 						}
 					}
@@ -204,7 +204,7 @@ song = {
 					culture_group = di
 					culture = mongol
 					culture = khitan
-					culture = jurchen
+					culture_group = tungusic
 					culture = xianbei
 					any_courtier = {
 						OR = {
@@ -214,7 +214,7 @@ song = {
 							culture_group = di
 							culture = mongol
 							culture = khitan
-							culture = jurchen
+							culture_group = tungusic
 							culture = xianbei
 						}
 					}
@@ -250,12 +250,12 @@ song = {
 				OR = {
 					culture_group = chinese
 					culture_group = korean_group
-					culture = jurchen
+					culture_group = tungusic
 					any_courtier = {
 						OR = {
 							culture_group = chinese
 							culture_group = korean_group
-							culture = jurchen
+							culture_group = tungusic
 						}
 					}
 				}
@@ -276,11 +276,11 @@ song = {
 			NOT = {
 				OR = {
 					culture_group = korean_group
-					culture = jurchen
+					culture_group = tungusic
 					any_courtier = {
 						OR = {
 							culture_group = korean_group
-							culture = jurchen
+							culture_group = tungusic
 						}
 					}
 				}
@@ -314,11 +314,11 @@ song = {
 			NOT = {
 				OR = {
 					culture_group = korean_group
-					culture = jurchen
+					culture_group = tungusic
 					any_courtier = {
 						OR = {
 							culture_group = korean_group
-							culture = jurchen
+							culture_group = tungusic
 						}
 					}
 				}

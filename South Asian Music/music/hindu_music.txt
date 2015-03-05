@@ -13,26 +13,16 @@ song = {
 					religion = jain
 					is_heresy_of = hindu
 					is_heresy_of = jain
-					culture_group = shauraseni
-					culture_group = abahatta
-					culture_group = maharashtri
-					culture_group = pahari
-					culture_group = kandamil
-					culture_group = assaka
-					culture_group = elu
+					culture_group = dravidian_group
+					culture_group = indo_aryan_group
 					any_courtier = {
 						OR = {
 							religion = hindu
 							religion = jain
 							is_heresy_of = hindu
 							is_heresy_of = jain
-							culture_group = shauraseni
-							culture_group = abahatta
-							culture_group = maharashtri
-							culture_group = pahari
-							culture_group = kandamil
-							culture_group = assaka
-							culture_group = elu
+							culture_group = dravidian_group
+							culture_group = indo_aryan_group
 						}
 					}
 				}
@@ -53,26 +43,16 @@ song = {
 					religion = jain
 					is_heresy_of = hindu
 					is_heresy_of = jain
-					culture_group = shauraseni
-					culture_group = abahatta
-					culture_group = maharashtri
-					culture_group = pahari
-					culture_group = kandamil
-					culture_group = assaka
-					culture_group = elu
+					culture_group = dravidian_group
+					culture_group = indo_aryan_group
 					any_courtier = {
 						OR = {
 							religion = hindu
 							religion = jain
 							is_heresy_of = hindu
 							is_heresy_of = jain
-							culture_group = shauraseni
-							culture_group = abahatta
-							culture_group = maharashtri
-							culture_group = pahari
-							culture_group = kandamil
-							culture_group = assaka
-							culture_group = elu
+							culture_group = dravidian_group
+							culture_group = indo_aryan_group
 						}
 					}
 				}
@@ -93,26 +73,16 @@ song = {
 					religion = jain
 					is_heresy_of = hindu
 					is_heresy_of = jain
-					culture_group = shauraseni
-					culture_group = abahatta
-					culture_group = maharashtri
-					culture_group = pahari
-					culture_group = kandamil
-					culture_group = assaka
-					culture_group = elu
+					culture_group = dravidian_group
+					culture_group = indo_aryan_group
 					any_courtier = {
 						OR = {
 							religion = hindu
 							religion = jain
 							is_heresy_of = hindu
 							is_heresy_of = jain
-							culture_group = shauraseni
-							culture_group = abahatta
-							culture_group = maharashtri
-							culture_group = pahari
-							culture_group = kandamil
-							culture_group = assaka
-							culture_group = elu
+							culture_group = dravidian_group
+							culture_group = indo_aryan_group
 						}
 					}
 				}
@@ -133,26 +103,16 @@ song = {
 					religion = jain
 					is_heresy_of = hindu
 					is_heresy_of = jain
-					culture_group = shauraseni
-					culture_group = abahatta
-					culture_group = maharashtri
-					culture_group = pahari
-					culture_group = kandamil
-					culture_group = assaka
-					culture_group = elu
+					culture_group = dravidian_group
+					culture_group = indo_aryan_group
 					any_courtier = {
 						OR = {
 							religion = hindu
 							religion = jain
 							is_heresy_of = hindu
 							is_heresy_of = jain
-							culture_group = shauraseni
-							culture_group = abahatta
-							culture_group = maharashtri
-							culture_group = pahari
-							culture_group = kandamil
-							culture_group = assaka
-							culture_group = elu
+							culture_group = dravidian_group
+							culture_group = indo_aryan_group
 						}
 					}
 				}
