@@ -1,0 +1,140 @@
+
+song = {
+	name = "BLACK_SHIELD_WHITE_CROSS.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+
+
+song = {
+	name = "BROTHERHOOD_OF_CLUNY.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+song = {
+	name = "CRAC_DES_CHEVALIERS.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+
+
+song = {
+	name = "CROSS_OR_CROWN.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+song = {
+	name = "CRUSADER_KINGS.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+song = {
+	name = "DANCE_WITH_THE_REAPER.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+
+
+song = {
+	name = "EASTERN_WIND.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+song = {
+	name = "EL_CID.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+		
+	}
+}
+
+song = {
+	name = "LA_SERENISIMA.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+		
+	}
+}
+
+song = {
+	name = "MENU.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+		
+	}
+}
+
+song = {
+	name = "SCORPION_IN_THE_SAND.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "VOICES_OF_WAR.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "WAR_WITHOUT_END.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
