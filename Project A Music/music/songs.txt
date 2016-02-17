@@ -1,0 +1,109 @@
+
+song = {
+	name = "Apache_war_song.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+
+
+song = {
+	name = "Cheyenne_War_Dance.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+song = {
+	name = "Earth_Drum.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+
+
+song = {
+	name = "Firesong.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+song = {
+	name = "Flute_in_C.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+song = {
+	name = "Hopi_Song.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+
+
+song = {
+	name = "crusaderkings2_maintitle.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+song = {
+	name = "Shoshone_Music.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+		
+	}
+}
+
+song = {
+	name = "Wind_Flute.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+		
+	}
+}
+
+song = {
+	name = "Ancestor_chant.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+		
+	}
+}
