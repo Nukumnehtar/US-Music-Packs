@@ -25,12 +25,14 @@ song = {
 					culture_group = vietic
 					culture_group = tai_kadai
 					culture_group = mon_khmer
+					culture_group = hmong_mien
 					culture = bai
 					any_courtier = {
 						OR = {
 							culture_group = vietic
 							culture_group = tai_kadai
 							culture_group = mon_khmer
+							culture_group = hmong_mien
 							culture = bai
 						}
 					}
@@ -65,12 +67,14 @@ song = {
 					culture_group = vietic
 					culture_group = tai_kadai
 					culture_group = mon_khmer
+					culture_group = hmong_mien
 					culture = bai
 					any_courtier = {
 						OR = {
 							culture_group = vietic
 							culture_group = tai_kadai
 							culture_group = mon_khmer
+							culture_group = hmong_mien
 							culture = bai
 						}
 					}
@@ -105,12 +109,14 @@ song = {
 					culture_group = vietic
 					culture_group = tai_kadai
 					culture_group = mon_khmer
+					culture_group = hmong_mien
 					culture = bai
 					any_courtier = {
 						OR = {
 							culture_group = vietic
 							culture_group = tai_kadai
 							culture_group = mon_khmer
+							culture_group = hmong_mien
 							culture = bai
 						}
 					}
@@ -149,12 +155,14 @@ song = {
 					culture_group = vietic
 					culture_group = burman
 					culture_group = chamic
+					culture_group = hmong_mien
 					culture = bai
 					any_courtier = {
 						OR = {
 							culture_group = vietic
 							culture_group = burman
 							culture_group = chamic
+							culture_group = hmong_mien
 							culture = bai
 						}
 					}
@@ -191,12 +199,14 @@ song = {
 					culture_group = vietic
 					culture_group = burman
 					culture_group = chamic
+					culture_group = hmong_mien
 					culture = bai
 					any_courtier = {
 						OR = {
 							culture_group = vietic
 							culture_group = burman
 							culture_group = chamic
+							culture_group = hmong_mien
 							culture = bai
 						}
 					}
@@ -232,20 +242,22 @@ song = {
 				OR = {
 					culture_group = burman
 					culture_group = tai_kadai
-					culture_group = chinese
+					culture_group = chinese_group
 					culture_group = far_east
 					culture_group = korean_group
 					culture_group = ma_i_an
 					culture_group = taiwanese
+					culture_group = hmong_mien
 					any_courtier = {
 						OR = {
 							culture_group = burman
 							culture_group = tai_kadai
-							culture_group = chinese
+							culture_group = chinese_group
 							culture_group = far_east
 							culture_group = korean_group
 							culture_group = ma_i_an
 							culture_group = taiwanese
+							culture_group = hmong_mien
 						}
 					}
 				}
@@ -278,20 +290,22 @@ song = {
 				OR = {
 					culture_group = burman
 					culture_group = tai_kadai
-					culture_group = chinese
+					culture_group = chinese_group
 					culture_group = far_east
 					culture_group = korean_group
 					culture_group = ma_i_an
 					culture_group = taiwanese
+					culture_group = hmong_mien
 					any_courtier = {
 						OR = {
 							culture_group = burman
 							culture_group = tai_kadai
-							culture_group = chinese
+							culture_group = chinese_group
 							culture_group = far_east
 							culture_group = korean_group
 							culture_group = ma_i_an
 							culture_group = taiwanese
+							culture_group = hmong_mien
 						}
 					}
 				}
@@ -324,20 +338,22 @@ song = {
 				OR = {
 					culture_group = burman
 					culture_group = tai_kadai
-					culture_group = chinese
+					culture_group = chinese_group
 					culture_group = far_east
 					culture_group = korean_group
 					culture_group = ma_i_an
 					culture_group = taiwanese
+					culture_group = hmong_mien
 					any_courtier = {
 						OR = {
 							culture_group = burman
 							culture_group = tai_kadai
-							culture_group = chinese
+							culture_group = chinese_group
 							culture_group = far_east
 							culture_group = korean_group
 							culture_group = ma_i_an
 							culture_group = taiwanese
+							culture_group = hmong_mien
 						}
 					}
 				}

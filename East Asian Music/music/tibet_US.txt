@@ -9,12 +9,10 @@ song = {
 			factor = 0
 			NOT = {
 				OR = {
-					culture_group = tibetan
-					culture_group = di
+					culture_group = tibetan_group
 					any_courtier = {
 						OR = {
-							culture_group = tibetan
-							culture_group = di
+							culture_group = tibetan_group
 						}
 					}
 				}
@@ -28,12 +26,14 @@ song = {
 					culture = khitan
 					culture = xianbei
 					culture = tocharian
+					culture = sogdian
 					any_courtier = {
 						OR = {
 							culture = mongol
 							culture = khitan
 							culture = xianbei
 							culture = tocharian
+							culture = sogdian
 						}
 					}
 				}

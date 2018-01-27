@@ -9,18 +9,20 @@ song = {
 			factor = 0
 			NOT = {
 				OR = {
-					culture_group = chinese
+					culture_group = chinese_group
 					culture_group = far_east
 					culture_group = korean_group
 					culture_group = vietic
-					religion_group = chinese_religion
+					culture_group = hmong_mien
+					culture_group = tai_kadai
 					any_courtier = {
 						OR = {
-							culture_group = chinese
+							culture_group = chinese_group
 							culture_group = far_east
 							culture_group = korean_group
 							culture_group = vietic
-							religion_group = chinese_religion
+							culture_group = hmong_mien
+							culture_group = tai_kadai
 						}
 					}
 				}
@@ -32,21 +34,21 @@ song = {
 				OR = {
 					culture_group = ma_i_an
 					culture_group = taiwanese
-					culture_group = tibetan
-					culture_group = di
+					culture_group = tibetan_group
 					culture = mongol
 					culture = khitan
-					culture_group = tungusic
+					culture = jurchen
+					culture = mohe
 					culture = xianbei
 					any_courtier = {
 						OR = {
 							culture_group = ma_i_an
 							culture_group = taiwanese
-							culture_group = tibetan
-							culture_group = di
+							culture_group = tibetan_group
 							culture = mongol
 							culture = khitan
-							culture_group = tungusic
+							culture = jurchen
+							culture = mohe
 							culture = xianbei
 						}
 					}
@@ -65,18 +67,20 @@ song = {
 			factor = 0
 			NOT = {
 				OR = {
-					culture_group = chinese
+					culture_group = chinese_group
 					culture_group = far_east
 					culture_group = korean_group
 					culture_group = vietic
-					religion_group = chinese_religion
+					culture_group = hmong_mien
+					culture_group = tai_kadai
 					any_courtier = {
 						OR = {
-							culture_group = chinese
+							culture_group = chinese_group
 							culture_group = far_east
 							culture_group = korean_group
 							culture_group = vietic
-							religion_group = chinese_religion
+							culture_group = hmong_mien
+							culture_group = tai_kadai
 						}
 					}
 				}
@@ -88,21 +92,21 @@ song = {
 				OR = {
 					culture_group = ma_i_an
 					culture_group = taiwanese
-					culture_group = tibetan
-					culture_group = di
+					culture_group = tibetan_group
 					culture = mongol
 					culture = khitan
-					culture_group = tungusic
+					culture = jurchen
+					culture = mohe
 					culture = xianbei
 					any_courtier = {
 						OR = {
 							culture_group = ma_i_an
 							culture_group = taiwanese
-							culture_group = tibetan
-							culture_group = di
+							culture_group = tibetan_group
 							culture = mongol
 							culture = khitan
-							culture_group = tungusic
+							culture = jurchen
+							culture = mohe
 							culture = xianbei
 						}
 					}
@@ -121,18 +125,20 @@ song = {
 			factor = 0
 			NOT = {
 				OR = {
-					culture_group = chinese
+					culture_group = chinese_group
 					culture_group = far_east
 					culture_group = korean_group
 					culture_group = vietic
-					religion_group = chinese_religion
+					culture_group = hmong_mien
+					culture_group = tai_kadai
 					any_courtier = {
 						OR = {
-							culture_group = chinese
+							culture_group = chinese_group
 							culture_group = far_east
 							culture_group = korean_group
 							culture_group = vietic
-							religion_group = chinese_religion
+							culture_group = hmong_mien
+							culture_group = tai_kadai
 						}
 					}
 				}
@@ -144,21 +150,21 @@ song = {
 				OR = {
 					culture_group = ma_i_an
 					culture_group = taiwanese
-					culture_group = tibetan
-					culture_group = di
+					culture_group = tibetan_group
 					culture = mongol
 					culture = khitan
-					culture_group = tungusic
+					culture = jurchen
+					culture = mohe
 					culture = xianbei
 					any_courtier = {
 						OR = {
 							culture_group = ma_i_an
 							culture_group = taiwanese
-							culture_group = tibetan
-							culture_group = di
+							culture_group = tibetan_group
 							culture = mongol
 							culture = khitan
-							culture_group = tungusic
+							culture = jurchen
+							culture = mohe
 							culture = xianbei
 						}
 					}
@@ -177,18 +183,20 @@ song = {
 			factor = 0
 			NOT = {
 				OR = {
-					culture_group = chinese
+					culture_group = chinese_group
 					culture_group = far_east
 					culture_group = korean_group
 					culture_group = vietic
-					religion_group = chinese_religion
+					culture_group = hmong_mien
+					culture_group = tai_kadai
 					any_courtier = {
 						OR = {
-							culture_group = chinese
+							culture_group = chinese_group
 							culture_group = far_east
 							culture_group = korean_group
 							culture_group = vietic
-							religion_group = chinese_religion
+							culture_group = hmong_mien
+							culture_group = tai_kadai
 						}
 					}
 				}
@@ -200,21 +208,21 @@ song = {
 				OR = {
 					culture_group = ma_i_an
 					culture_group = taiwanese
-					culture_group = tibetan
-					culture_group = di
+					culture_group = tibetan_group
 					culture = mongol
 					culture = khitan
-					culture_group = tungusic
+					culture = jurchen
+					culture = mohe
 					culture = xianbei
 					any_courtier = {
 						OR = {
 							culture_group = ma_i_an
 							culture_group = taiwanese
-							culture_group = tibetan
-							culture_group = di
+							culture_group = tibetan_group
 							culture = mongol
 							culture = khitan
-							culture_group = tungusic
+							culture = jurchen
+							culture = mohe
 							culture = xianbei
 						}
 					}
@@ -248,14 +256,16 @@ song = {
 			factor = 2
 			NOT = {
 				OR = {
-					culture_group = chinese
+					culture_group = chinese_group
 					culture_group = korean_group
-					culture_group = tungusic
+					culture = jurchen
+					culture = mohe
 					any_courtier = {
 						OR = {
 							culture_group = chinese
 							culture_group = korean_group
-							culture_group = tungusic
+							culture = jurchen
+							culture = mohe
 						}
 					}
 				}
@@ -276,11 +286,13 @@ song = {
 			NOT = {
 				OR = {
 					culture_group = korean_group
-					culture_group = tungusic
+					culture = jurchen
+					culture = mohe
 					any_courtier = {
 						OR = {
 							culture_group = korean_group
-							culture_group = tungusic
+							culture = jurchen
+							culture = mohe
 						}
 					}
 				}
@@ -290,11 +302,11 @@ song = {
 			factor = 2
 			NOT = {
 				OR = {
-					culture_group = chinese
+					culture_group = chinese_group
 					culture_group = far_east
 					any_courtier = {
 						OR = {
-							culture_group = chinese
+							culture_group = chinese_group
 							culture_group = far_east
 						}
 					}
@@ -314,11 +326,13 @@ song = {
 			NOT = {
 				OR = {
 					culture_group = korean_group
-					culture_group = tungusic
+					culture = jurchen
+					culture = mohe
 					any_courtier = {
 						OR = {
 							culture_group = korean_group
-							culture_group = tungusic
+							culture = jurchen
+							culture = mohe
 						}
 					}
 				}
@@ -328,11 +342,11 @@ song = {
 			factor = 2
 			NOT = {
 				OR = {
-					culture_group = chinese
+					culture_group = chinese_group
 					culture_group = far_east
 					any_courtier = {
 						OR = {
-							culture_group = chinese
+							culture_group = chinese_group
 							culture_group = far_east
 						}
 					}
